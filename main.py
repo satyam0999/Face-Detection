@@ -81,11 +81,3 @@ while True:
 
     cv2.imshow('Webcam', img)
     cv2.waitKey(1)
-
-
-
-
-
-
-
-    #C:\Users\FA-Satyam\AppData\Local\Programs\Python\Python37\one
